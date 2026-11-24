@@ -1,0 +1,6 @@
+ticket_id,customer_name,priority,status,created_date
+1,Ravi,high,open,2026-11-20
+2,Meena,low,closed,2026-11-21
+3,,medium,open,2026-11-22
+4,Arun,urgent,open,2026-11-22
+5,Divya,low,open,2026-13-45

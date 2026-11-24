@@ -1,0 +1,14 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.12.0, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\user\Desktop\ticket-validator\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\user\Desktop\ticket-validator
+configfile: pyproject.toml
+collecting ... collected 5 items
+
+tests/test_tickets.py::test_valid_row PASSED                             [ 20%]
+tests/test_tickets.py::test_missing_field PASSED                         [ 40%]
+tests/test_tickets.py::test_invalid_date PASSED                          [ 60%]
+tests/test_tickets.py::test_invalid_enum PASSED                          [ 80%]
+tests/test_tickets.py::test_empty_csv PASSED                             [100%]
+
+============================== 5 passed in 1.42s ==============================
